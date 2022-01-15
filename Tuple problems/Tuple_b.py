@@ -1,6 +1,6 @@
 '''Student name : Shelin Vankawala 
 Student Id : 
-Practical 2 - Dictionary 
+Practical 2 - Tuple 
 Aim b : Write a Python program to create a tuple with numbers and print one item.'''
 
 Tuple1 = 2, 3, 5
