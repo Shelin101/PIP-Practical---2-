@@ -1,6 +1,6 @@
 '''Student name : Shelin Vankawala 
 Student Id : 
-Practical 2 - Dictionary 
+Practical 2 - Tuple
 Aim c : Write a Python program to add an item in a tuple.'''
 
 Tuplec = ("Riya", "Mohit", "Akansha")
